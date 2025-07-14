@@ -1,0 +1,26 @@
+{
+    "devices" : [
+        {
+            "id": "temperature_sensor_001",
+            "type": "temperature",
+            "stream": "temperature_stream"
+        },
+        {
+            "id": "humidity_sensor_001",
+            "type": "humidity",
+            "stream": "humidity_stream"
+        },
+        {
+            "id": "energy_sensor_001",
+            "type": "energy",
+            "stream": "energy_stream"
+        }
+    ],
+        "interval": 1,
+        "aws" : [
+            {
+                "access_key": "AKIAIOSFODNN7EXAMPLE",
+            "region": "ap-south-1"
+        }
+    ]
+}
