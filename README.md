@@ -83,4 +83,4 @@ Check your S3 bucket to verify that the processed data files have been uploaded.
 
 ### LinkedIn Demo Video
 Watch a demo of the data streaming pipeline on LinkedIn:
-```(https://bit.ly/44ubcfV)```
+```( https://bit.ly/44ubcfV )```
